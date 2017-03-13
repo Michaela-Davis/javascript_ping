@@ -1,0 +1,19 @@
+{
+  "name": "pingpong",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccbpeden/js-wk-1-day-1-practice-fun.git"
+  },
+  "author": "Michaela Davis & Charles Peden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccbpeden/js-wk-1-day-1-practice-fun/issues"
+  },
+  "homepage": "https://github.com/ccbpeden/js-wk-1-day-1-practice-fun#readme"
+}

@@ -1,3 +1,7 @@
+function Calculator(skinName) {
+  this.skin = skinName;
+}
+
 function pingPong(goal) {
   var output = [];
   for (var i = 1; i <= goal; i++) {
@@ -13,3 +17,5 @@ function pingPong(goal) {
   }
   return output;
 }
+
+exports.calculatorModule = Calculator;
